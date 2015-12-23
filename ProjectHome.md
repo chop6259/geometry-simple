@@ -1,0 +1,2 @@
+A small python library for constructing simple geometrical objects (points, lines, planes) and transformations on them.
+It is also possible to measure distances and angles. The library is designed to be usable without knowledge of linear algebra.
